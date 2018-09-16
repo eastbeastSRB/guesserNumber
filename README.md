@@ -1,2 +1,2 @@
 # guesserNumber
-small JavaScirpt app
+JavaScirpt app
